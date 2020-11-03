@@ -1,8 +1,8 @@
 // package v1basic;
 
-public class C4_Loop{
+public class C5_Loop{
     public static void main(String[] args) {
-        int tinggi=2;
+        int tinggi=3;
         char symbol='*';
         //! for
         for(int i = 1; i <= tinggi; i++){
