@@ -1,3 +1,3 @@
-# Java
+# Python
 
 My Journey with Python
