@@ -1,5 +1,3 @@
-package modul8;
-
 import javax.swing.*;
 
 /**
