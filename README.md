@@ -2,4 +2,4 @@
 
 There's Nothing Here, GO BACK!!!🤣
 
-<img align='center' width='auto' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"/>
+<img width='100%' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"/>
