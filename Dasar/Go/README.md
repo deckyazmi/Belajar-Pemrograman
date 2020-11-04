@@ -1,3 +1,3 @@
-# Python
+# Go
 
-My Journey with Python
+My Journey with Go
